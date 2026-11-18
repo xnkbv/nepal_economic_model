@@ -7,8 +7,9 @@ OUT_FILE = Path("data/processed/nrb_monetary_pct_gdp.csv")
 # 1. Read the sheet (column names are on row 4)
 df = pd.read_excel(RAW_FILE, sheet_name="A26.Monetary Ind. % of GDP ", header=3)
 
-# 2. Keep only real data rows: Fiscal Year must look like "2016/17"
-df = df[df["Fiscal Year"].astype(str).str.match(r"^\d{4}/\d{2}$")]
+# 2. Clean the year labels ("2010/11*" -> "2010/11"), then keep only real data rows
+df["Fiscal Year"] = df["Fiscal Year"].astype(str).str.replace("*", "", regex=False).str.strip()
+df = df[df["Fiscal Year"].str.match(r"^\d{4}/\d{2}$")]
 
 # 3. Drop the empty column
 df = df.drop(columns=["Unnamed: 7"])
@@ -35,3 +36,8 @@ long = df.melt(id_vars=["fy_ad", "fy_bs"], var_name="indicator", value_name="val
 long.to_csv(OUT_FILE, index=False)
 print(long.head(10))
 print(f"{len(long)} rows saved to {OUT_FILE}")
+
+# 8. Sanity check
+years = long["fy_ad"].nunique()
+print(f"Years: {years} ({long['fy_ad'].min()} to {long['fy_ad'].max()})")
+assert years == 52, f"Expected 52 years, got {years}"
