@@ -4,6 +4,7 @@ from pathlib import Path
 RAW_FILE = Path("data/raw/nrb/nrb_cmefs_tables_annual_2082-83.xlsx")
 OUT_ANNUAL = Path("data/processed/nrb_annual_indicators.csv")
 OUT_MONTHLY = Path("data/processed/nrb_monthly_indicators.csv")
+OUT_QUARTERLY = Path("data/processed/nrb_quarterly_wages.csv")
 
 MONTHS = {"January": 1, "February": 2, "March": 3, "April": 4, "May": 5, "June": 6,
           "July": 7, "August": 8, "September": 9, "October": 10, "November": 11, "December": 12}
@@ -63,6 +64,33 @@ def read_monthly_sheet(sheet, first_data_row, columns):
     return long
 
 
+def read_quarterly_sheet(sheet, first_data_row, columns):
+    """Read an NRB quarterly sheet whose rows are labelled like "2026 AprilR"."""
+    df = pd.read_excel(RAW_FILE, sheet_name=sheet, header=None, skiprows=first_data_row - 1)
+    df = df.iloc[:, :len(columns)]
+    df.columns = columns
+    df = df.dropna(subset=["period"])
+
+    # "2026 AprilR" -> year 2026, month April, status revised
+    label = df["period"].astype(str).str.strip()
+    df["status"] = (label.str.extract(r"([RP])$")[0]
+                    .map({"R": "revised", "P": "preliminary"})
+                    .fillna("final"))
+    year = label.str.extract(r"^(\d{4})")[0].astype(int)
+    month_num = label.str.extract(r"^\d{4}\s+([A-Z][a-z]+)")[0].map(MONTHS)
+    df["date"] = pd.to_datetime(dict(year=year, month=month_num, day=15))
+
+    # Fiscal year: Aug-Dec start a new fiscal year, Jan-Jul end one
+    first_year = year.where(month_num >= 8, year - 1)
+    df["fy_ad"] = first_year.astype(str) + "/" + ((first_year + 1) % 100).astype(str).str.zfill(2)
+
+    df = df.drop(columns=["period"] + [c for c in df.columns if c.startswith("_")])
+    long = df.melt(id_vars=["date", "fy_ad", "status"], var_name="series", value_name="value")
+    long["value"] = pd.to_numeric(long["value"], errors="coerce")
+    long["source_sheet"] = sheet.strip()
+    return long
+
+
 # ---------- Annual sheets ----------
 
 # A26: ratios to GDP. Its GDP column duplicates A1, so we skip it here.
@@ -95,6 +123,11 @@ bop = read_annual_sheet("A.13BoP-annex-annual", 5, [
     "net_exports_gs_npr_bn", "current_account_npr_bn", "bop_balance_npr_bn", "remittances_npr_bn",
     "net_exports_gs_pct_gdp", "current_account_pct_gdp", "bop_balance_pct_gdp", "remittances_pct_gdp"])
 
+# A2: consumer price index (2023/24 = 100) and inflation
+cpi = read_annual_sheet("A2.CPI_Annual ", 6, [
+    "fy_ad", "fy_bs", "cpi_overall_index", "cpi_food_index", "cpi_nonfood_index",
+    "cpi_overall_inflation_pct", "cpi_food_inflation_pct", "cpi_nonfood_inflation_pct"])
+
 # ---------- Monthly sheets ----------
 
 # A24: interest rates (% per year), mid-month, commercial banks
@@ -112,8 +145,30 @@ rates_annual["fy_bs"] = None
 rates_annual["status"] = "final"
 rates_annual["source_sheet"] = "A24.Interest Rates Series (annual average)"
 
+# ---------- Quarterly sheets ----------
+
+# A7: salary and wage index (2023/24 = 100) for Nepal and each province.
+#   NRB's own % growth columns are dropped: we calculate growth ourselves in SQL.
+wages = read_quarterly_sheet("A7.SWI-ProvincialSeries", 5, [
+    "period", "_nepali_period",
+    "koshi", "_g1", "madhesh", "_g2", "bagmati", "_g3", "gandaki", "_g4",
+    "lumbini", "_g5", "karnali", "_g6", "sudurpashchim", "_g7", "nepal", "_g8"])
+wages = wages.rename(columns={"series": "region"})
+wages["indicator"] = "wage_index"
+
+# Annual average of the national index (4 quarters per fiscal year)
+national = wages[wages["region"] == "nepal"]
+wages_annual = national.groupby("fy_ad", as_index=False).agg(
+    value=("value", "mean"), quarters=("value", "count"),
+    status=("status", lambda s: "preliminary" if (s == "preliminary").any()
+            else "revised" if (s == "revised").any() else "final"))
+assert (wages_annual["quarters"] == 4).all(), "A fiscal year does not have 4 quarters of wages!"
+wages_annual = wages_annual.drop(columns="quarters")
+wages_annual["indicator"] = "wage_index_avg"
+wages_annual["source_sheet"] = "A7.SWI-ProvincialSeries (annual average, Nepal)"
+
 # ---------- Combine and fix units ----------
-data = pd.concat([credit_pct, gdp, money, trade, bop], ignore_index=True)
+data = pd.concat([credit_pct, gdp, money, trade, bop, cpi], ignore_index=True)
 
 # NRB publishes rupee amounts in millions -> convert to billions
 in_millions = data["indicator"].str.endswith("_npr_bn")
@@ -122,12 +177,15 @@ data.loc[in_millions, "value"] = data.loc[in_millions, "value"] / 1000
 # Fill in the Nepali year for the rate averages from the other sheets
 bs_lookup = data.drop_duplicates("fy_ad").set_index("fy_ad")["fy_bs"]
 rates_annual["fy_bs"] = rates_annual["fy_ad"].map(bs_lookup)
-data = pd.concat([data, rates_annual], ignore_index=True)
+wages_annual["fy_bs"] = wages_annual["fy_ad"].map(bs_lookup)
+data = pd.concat([data, rates_annual, wages_annual], ignore_index=True)
 
 data.to_csv(OUT_ANNUAL, index=False)
 rates.to_csv(OUT_MONTHLY, index=False)
+wages.to_csv(OUT_QUARTERLY, index=False)
 print(f"{len(data)} annual rows saved to {OUT_ANNUAL}")
-print(f"{len(rates)} monthly rows saved to {OUT_MONTHLY}\n")
+print(f"{len(rates)} monthly rows saved to {OUT_MONTHLY}")
+print(f"{len(wages)} quarterly rows saved to {OUT_QUARTERLY}\n")
 
 # ---------- Validation ----------
 
@@ -161,5 +219,22 @@ remit_gap = (wide["remittances_npr_bn"] / wide["gdp_nominal_npr_bn"] * 100
              - wide["remittances_pct_gdp"]).abs().loc["2011/12":]
 print(f"Remittance cross-check, largest gap since 2011/12: {remit_gap.max():.4f} percentage points")
 assert remit_gap.max() < 0.01, "A13 and A1 disagree on remittances / GDP!"
+
+# Check 7: both indices must equal 100 in their base year 2023/24
+cpi_base = wide.loc["2023/24", "cpi_overall_index"]
+wage_base = wide.loc["2023/24", "wage_index_avg"]
+print(f"Base year 2023/24 -> CPI: {cpi_base:.2f}, wage index: {wage_base:.2f}")
+assert abs(cpi_base - 100) < 0.5 and abs(wage_base - 100) < 0.5, "An index is not 100 in its base year!"
+
+# Check 8: published inflation must equal the % change of the CPI index.
+#   Before 2014/15 the index is "backlinked" (spliced onto the 2023/24 base), so it can
+#   differ slightly from the inflation NRB originally published. We check from 2014/15.
+recomputed_inflation = wide["cpi_overall_index"].pct_change() * 100
+infl_gap = (recomputed_inflation - wide["cpi_overall_inflation_pct"]).abs().loc["2014/15":]
+print(f"Inflation cross-check, largest gap since 2014/15: {infl_gap.max():.4f} percentage points")
+assert infl_gap.max() < 0.01, "CPI inflation does not match the CPI index!"
+
+# Check 9: no duplicate quarter-region rows
+assert not wages.duplicated(["date", "region"]).any(), "Duplicate quarter-region rows!"
 
 print("All checks passed.")
