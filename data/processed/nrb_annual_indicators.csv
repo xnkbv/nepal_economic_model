@@ -1,0 +1,937 @@
+fy_ad,fy_bs,status,indicator,value,source_sheet
+1974/75,2031/32,final,m1_pct_gdp,8.072536358698933,A26.Monetary Ind. % of GDP
+1975/76,2032/33,final,m1_pct_gdp,8.350580659997702,A26.Monetary Ind. % of GDP
+1976/77,2033/34,final,m1_pct_gdp,10.722800925925926,A26.Monetary Ind. % of GDP
+1977/78,2034/35,final,m1_pct_gdp,10.44293533346848,A26.Monetary Ind. % of GDP
+1978/79,2035/36,final,m1_pct_gdp,11.27571460724736,A26.Monetary Ind. % of GDP
+1979/80,2036/37,final,m1_pct_gdp,12.121108303712901,A26.Monetary Ind. % of GDP
+1980/81,2037/38,final,m1_pct_gdp,11.747171055040832,A26.Monetary Ind. % of GDP
+1981/82,2038/39,final,m1_pct_gdp,11.654511423776945,A26.Monetary Ind. % of GDP
+1982/83,2039/40,final,m1_pct_gdp,12.88143123722639,A26.Monetary Ind. % of GDP
+1983/84,2040/41,final,m1_pct_gdp,12.519675044427519,A26.Monetary Ind. % of GDP
+1984/85,2041/42,final,m1_pct_gdp,11.762938158713808,A26.Monetary Ind. % of GDP
+1985/86,2042/43,final,m1_pct_gdp,12.61222951878566,A26.Monetary Ind. % of GDP
+1986/87,2043/44,final,m1_pct_gdp,12.714831516973568,A26.Monetary Ind. % of GDP
+1987/88,2044/45,final,m1_pct_gdp,12.478350193743013,A26.Monetary Ind. % of GDP
+1988/89,2045/46,final,m1_pct_gdp,13.19076957544528,A26.Monetary Ind. % of GDP
+1989/90,2046/47,final,m1_pct_gdp,13.753190995590622,A26.Monetary Ind. % of GDP
+1990/91,2047/48,final,m1_pct_gdp,13.527955470632222,A26.Monetary Ind. % of GDP
+1991/92,2048/49,final,m1_pct_gdp,13.016315800036121,A26.Monetary Ind. % of GDP
+1992/93,2049/50,final,m1_pct_gdp,13.898900124800257,A26.Monetary Ind. % of GDP
+1993/94,2050/51,final,m1_pct_gdp,14.307278493717138,A26.Monetary Ind. % of GDP
+1994/95,2051/52,final,m1_pct_gdp,15.049800387817944,A26.Monetary Ind. % of GDP
+1995/96,2052/53,final,m1_pct_gdp,14.66295452628027,A26.Monetary Ind. % of GDP
+1996/97,2053/54,final,m1_pct_gdp,16.10043028308848,A26.Monetary Ind. % of GDP
+1997/98,2054/55,final,m1_pct_gdp,16.97302597683192,A26.Monetary Ind. % of GDP
+1998/99,2055/56,final,m1_pct_gdp,17.828444959010163,A26.Monetary Ind. % of GDP
+1999/00,2056/57,final,m1_pct_gdp,18.597953031452903,A26.Monetary Ind. % of GDP
+2000/01,2057/58,final,m1_pct_gdp,17.47517094394578,A26.Monetary Ind. % of GDP
+2001/02,2058/59,final,m1_pct_gdp,18.2294865739602,A26.Monetary Ind. % of GDP
+2002/03,2059/60,final,m1_pct_gdp,19.090569265243342,A26.Monetary Ind. % of GDP
+2003/04,2060/61,final,m1_pct_gdp,18.669024068978228,A26.Monetary Ind. % of GDP
+2004/05,2061/62,final,m1_pct_gdp,19.181964398417414,A26.Monetary Ind. % of GDP
+2005/06,2062/63,final,m1_pct_gdp,19.399341674769605,A26.Monetary Ind. % of GDP
+2006/07,2063/64,final,m1_pct_gdp,21.206125506385558,A26.Monetary Ind. % of GDP
+2007/08,2064/65,final,m1_pct_gdp,24.085992920489684,A26.Monetary Ind. % of GDP
+2008/09,2065/66,final,m1_pct_gdp,22.074805539459252,A26.Monetary Ind. % of GDP
+2009/10,2066/67,final,m1_pct_gdp,18.64153794008439,A26.Monetary Ind. % of GDP
+2010/11,2067/68,final,m1_pct_gdp,14.262323989917292,A26.Monetary Ind. % of GDP
+2011/12,2068/69,final,m1_pct_gdp,14.997089603952707,A26.Monetary Ind. % of GDP
+2012/13,2069/70,final,m1_pct_gdp,15.471758845441855,A26.Monetary Ind. % of GDP
+2013/14,2070/71,final,m1_pct_gdp,15.893662217564183,A26.Monetary Ind. % of GDP
+2014/15,2071/72,final,m1_pct_gdp,17.52508211578144,A26.Monetary Ind. % of GDP
+2015/16,2072/73,final,m1_pct_gdp,19.296454175586508,A26.Monetary Ind. % of GDP
+2016/17,2073/74,final,m1_pct_gdp,18.50424343533076,A26.Monetary Ind. % of GDP
+2017/18,2074/75,final,m1_pct_gdp,19.3693503317971,A26.Monetary Ind. % of GDP
+2018/19,2075/76,final,m1_pct_gdp,18.830159699231896,A26.Monetary Ind. % of GDP
+2019/20,2076/77,final,m1_pct_gdp,22.019184858538438,A26.Monetary Ind. % of GDP
+2020/21,2077/78,final,m1_pct_gdp,24.162119692140735,A26.Monetary Ind. % of GDP
+2021/22,2078/79,final,m1_pct_gdp,19.16694218173548,A26.Monetary Ind. % of GDP
+2022/23,2079/80,final,m1_pct_gdp,17.983288842546578,A26.Monetary Ind. % of GDP
+2023/24,2080/81,final,m1_pct_gdp,16.47167672,A26.Monetary Ind. % of GDP
+2024/25,2081/82,final,m1_pct_gdp,18.664697366636663,A26.Monetary Ind. % of GDP
+2025/26,2082/83,final,m1_pct_gdp,20.66346066728615,A26.Monetary Ind. % of GDP
+1974/75,2031/32,final,m2_pct_gdp,12.457908394182608,A26.Monetary Ind. % of GDP
+1975/76,2032/33,final,m2_pct_gdp,14.51075083362079,A26.Monetary Ind. % of GDP
+1976/77,2033/34,final,m2_pct_gdp,18.65162037037037,A26.Monetary Ind. % of GDP
+1977/78,2034/35,final,m2_pct_gdp,19.116663288060007,A26.Monetary Ind. % of GDP
+1978/79,2035/36,final,m2_pct_gdp,20.30790006752195,A26.Monetary Ind. % of GDP
+1979/80,2036/37,final,m2_pct_gdp,22.634148430474067,A26.Monetary Ind. % of GDP
+1980/81,2037/38,final,m2_pct_gdp,23.099205331966168,A26.Monetary Ind. % of GDP
+1981/82,2038/39,final,m2_pct_gdp,24.06738092164709,A26.Monetary Ind. % of GDP
+1982/83,2039/40,final,m2_pct_gdp,27.31672640028436,A26.Monetary Ind. % of GDP
+1983/84,2040/41,final,m2_pct_gdp,26.542777354658543,A26.Monetary Ind. % of GDP
+1984/85,2041/42,final,m2_pct_gdp,26.39491703694164,A26.Monetary Ind. % of GDP
+1985/86,2042/43,final,m2_pct_gdp,27.198837334481645,A26.Monetary Ind. % of GDP
+1986/87,2043/44,final,m2_pct_gdp,27.399160716522612,A26.Monetary Ind. % of GDP
+1987/88,2044/45,final,m2_pct_gdp,27.855563935193615,A26.Monetary Ind. % of GDP
+1988/89,2045/46,final,m2_pct_gdp,29.80295732048841,A26.Monetary Ind. % of GDP
+1989/90,2046/47,final,m2_pct_gdp,30.51017250715557,A26.Monetary Ind. % of GDP
+1990/91,2047/48,final,m2_pct_gdp,31.330481016864674,A26.Monetary Ind. % of GDP
+1991/92,2048/49,final,m2_pct_gdp,30.551486082401812,A26.Monetary Ind. % of GDP
+1992/93,2049/50,final,m2_pct_gdp,34.01244503539895,A26.Monetary Ind. % of GDP
+1993/94,2050/51,final,m2_pct_gdp,35.01600827010318,A26.Monetary Ind. % of GDP
+1994/95,2051/52,final,m2_pct_gdp,36.94978898140754,A26.Monetary Ind. % of GDP
+1995/96,2052/53,final,m2_pct_gdp,37.22272440571606,A26.Monetary Ind. % of GDP
+1996/97,2053/54,final,m2_pct_gdp,45.08261649192728,A26.Monetary Ind. % of GDP
+1997/98,2054/55,final,m2_pct_gdp,50.79034054081004,A26.Monetary Ind. % of GDP
+1998/99,2055/56,final,m2_pct_gdp,54.41555859617117,A26.Monetary Ind. % of GDP
+1999/00,2056/57,final,m2_pct_gdp,56.51145754279451,A26.Monetary Ind. % of GDP
+2000/01,2057/58,final,m2_pct_gdp,50.73129355701567,A26.Monetary Ind. % of GDP
+2001/02,2058/59,final,m2_pct_gdp,53.52376682199967,A26.Monetary Ind. % of GDP
+2002/03,2059/60,final,m2_pct_gdp,56.33657774500184,A26.Monetary Ind. % of GDP
+2003/04,2060/61,final,m2_pct_gdp,55.974021376844675,A26.Monetary Ind. % of GDP
+2004/05,2061/62,final,m2_pct_gdp,58.842388685673185,A26.Monetary Ind. % of GDP
+2005/06,2062/63,final,m2_pct_gdp,60.46902538511873,A26.Monetary Ind. % of GDP
+2006/07,2063/64,final,m2_pct_gdp,68.06248225935275,A26.Monetary Ind. % of GDP
+2007/08,2064/65,final,m2_pct_gdp,77.30213056864947,A26.Monetary Ind. % of GDP
+2008/09,2065/66,final,m2_pct_gdp,72.81390783980676,A26.Monetary Ind. % of GDP
+2009/10,2066/67,final,m2_pct_gdp,77.24183017617706,A26.Monetary Ind. % of GDP
+2010/11,2067/68,final,m2_pct_gdp,59.09641206040001,A26.Monetary Ind. % of GDP
+2011/12,2068/69,final,m2_pct_gdp,64.28091885462747,A26.Monetary Ind. % of GDP
+2012/13,2069/70,final,m2_pct_gdp,67.47959642860278,A26.Monetary Ind. % of GDP
+2013/14,2070/71,final,m2_pct_gdp,70.14331125684257,A26.Monetary Ind. % of GDP
+2014/15,2071/72,final,m2_pct_gdp,77.47861515535573,A26.Monetary Ind. % of GDP
+2015/16,2072/73,final,m2_pct_gdp,86.0590432146197,A26.Monetary Ind. % of GDP
+2016/17,2073/74,final,m2_pct_gdp,84.22424235877169,A26.Monetary Ind. % of GDP
+2017/18,2074/75,final,m2_pct_gdp,89.54027834680909,A26.Monetary Ind. % of GDP
+2018/19,2075/76,final,m2_pct_gdp,92.82721573703245,A26.Monetary Ind. % of GDP
+2019/20,2076/77,final,m2_pct_gdp,108.80154838799365,A26.Monetary Ind. % of GDP
+2020/21,2077/78,final,m2_pct_gdp,119.26177715853275,A26.Monetary Ind. % of GDP
+2021/22,2078/79,final,m2_pct_gdp,111.4097951418194,A26.Monetary Ind. % of GDP
+2022/23,2079/80,final,m2_pct_gdp,115.13060650042101,A26.Monetary Ind. % of GDP
+2023/24,2080/81,final,m2_pct_gdp,121.07255,A26.Monetary Ind. % of GDP
+2024/25,2081/82,final,m2_pct_gdp,126.54477783953465,A26.Monetary Ind. % of GDP
+2025/26,2082/83,final,m2_pct_gdp,134.8040058760819,A26.Monetary Ind. % of GDP
+1974/75,2031/32,final,domestic_credit_pct_gdp,9.883531470641485,A26.Monetary Ind. % of GDP
+1975/76,2032/33,final,domestic_credit_pct_gdp,10.137403702426123,A26.Monetary Ind. % of GDP
+1976/77,2033/34,final,domestic_credit_pct_gdp,12.297453703703704,A26.Monetary Ind. % of GDP
+1977/78,2034/35,final,domestic_credit_pct_gdp,14.723798905331439,A26.Monetary Ind. % of GDP
+1978/79,2035/36,final,domestic_credit_pct_gdp,15.938780103533649,A26.Monetary Ind. % of GDP
+1979/80,2036/37,final,domestic_credit_pct_gdp,18.439467260502763,A26.Monetary Ind. % of GDP
+1980/81,2037/38,final,domestic_credit_pct_gdp,18.901380598381365,A26.Monetary Ind. % of GDP
+1981/82,2038/39,final,domestic_credit_pct_gdp,19.501419904479153,A26.Monetary Ind. % of GDP
+1982/83,2039/40,final,domestic_credit_pct_gdp,25.15002517697935,A26.Monetary Ind. % of GDP
+1983/84,2040/41,final,domestic_credit_pct_gdp,24.941609545569943,A26.Monetary Ind. % of GDP
+1984/85,2041/42,final,domestic_credit_pct_gdp,26.94077747010969,A26.Monetary Ind. % of GDP
+1985/86,2042/43,final,domestic_credit_pct_gdp,27.49291276420138,A26.Monetary Ind. % of GDP
+1986/87,2043/44,final,domestic_credit_pct_gdp,27.87658148565702,A26.Monetary Ind. % of GDP
+1987/88,2044/45,final,domestic_credit_pct_gdp,26.615998751722884,A26.Monetary Ind. % of GDP
+1988/89,2045/46,final,domestic_credit_pct_gdp,29.779657219670664,A26.Monetary Ind. % of GDP
+1989/90,2046/47,final,domestic_credit_pct_gdp,28.681828730563936,A26.Monetary Ind. % of GDP
+1990/91,2047/48,final,domestic_credit_pct_gdp,28.654482013790805,A26.Monetary Ind. % of GDP
+1991/92,2048/49,final,domestic_credit_pct_gdp,27.834594312548916,A26.Monetary Ind. % of GDP
+1992/93,2049/50,final,domestic_credit_pct_gdp,28.811889849189964,A26.Monetary Ind. % of GDP
+1993/94,2050/51,final,domestic_credit_pct_gdp,29.01968164117388,A26.Monetary Ind. % of GDP
+1994/95,2051/52,final,domestic_credit_pct_gdp,32.93473251967606,A26.Monetary Ind. % of GDP
+1995/96,2052/53,final,domestic_credit_pct_gdp,35.86220888422862,A26.Monetary Ind. % of GDP
+1996/97,2053/54,final,domestic_credit_pct_gdp,35.975765829034664,A26.Monetary Ind. % of GDP
+1997/98,2054/55,final,domestic_credit_pct_gdp,38.495604048596455,A26.Monetary Ind. % of GDP
+1998/99,2055/56,final,domestic_credit_pct_gdp,39.42061654328784,A26.Monetary Ind. % of GDP
+1999/00,2056/57,final,domestic_credit_pct_gdp,41.635334977654104,A26.Monetary Ind. % of GDP
+2000/01,2057/58,final,domestic_credit_pct_gdp,42.551147289244625,A26.Monetary Ind. % of GDP
+2001/02,2058/59,final,domestic_credit_pct_gdp,45.1248577081379,A26.Monetary Ind. % of GDP
+2002/03,2059/60,final,domestic_credit_pct_gdp,46.409876663599,A26.Monetary Ind. % of GDP
+2003/04,2060/61,final,domestic_credit_pct_gdp,46.77959344125466,A26.Monetary Ind. % of GDP
+2004/05,2061/62,final,domestic_credit_pct_gdp,48.379995656688365,A26.Monetary Ind. % of GDP
+2005/06,2062/63,final,domestic_credit_pct_gdp,50.09056940698747,A26.Monetary Ind. % of GDP
+2006/07,2063/64,final,domestic_credit_pct_gdp,50.18021271203287,A26.Monetary Ind. % of GDP
+2007/08,2064/65,final,domestic_credit_pct_gdp,54.22397512096313,A26.Monetary Ind. % of GDP
+2008/09,2065/66,final,domestic_credit_pct_gdp,56.732454670183785,A26.Monetary Ind. % of GDP
+2009/10,2066/67,final,domestic_credit_pct_gdp,54.88605842525768,A26.Monetary Ind. % of GDP
+2010/11,2067/68,final,domestic_credit_pct_gdp,58.384725456754275,A26.Monetary Ind. % of GDP
+2011/12,2068/69,final,domestic_credit_pct_gdp,56.56865611533824,A26.Monetary Ind. % of GDP
+2012/13,2069/70,final,domestic_credit_pct_gdp,59.80964332347574,A26.Monetary Ind. % of GDP
+2013/14,2070/71,final,domestic_credit_pct_gdp,58.87077626487842,A26.Monetary Ind. % of GDP
+2014/15,2071/72,final,domestic_credit_pct_gdp,63.01871706868856,A26.Monetary Ind. % of GDP
+2015/16,2072/73,final,domestic_credit_pct_gdp,69.23344640488232,A26.Monetary Ind. % of GDP
+2016/17,2073/74,final,domestic_credit_pct_gdp,70.77313845058309,A26.Monetary Ind. % of GDP
+2017/18,2074/75,final,domestic_credit_pct_gdp,79.74344566508326,A26.Monetary Ind. % of GDP
+2018/19,2075/76,final,domestic_credit_pct_gdp,88.57332474330134,A26.Monetary Ind. % of GDP
+2019/20,2076/77,final,domestic_credit_pct_gdp,100.22949087928272,A26.Monetary Ind. % of GDP
+2020/21,2077/78,final,domestic_credit_pct_gdp,113.85225307840174,A26.Monetary Ind. % of GDP
+2021/22,2078/79,final,domestic_credit_pct_gdp,114.0059839775329,A26.Monetary Ind. % of GDP
+2022/23,2079/80,final,domestic_credit_pct_gdp,115.19770796386348,A26.Monetary Ind. % of GDP
+2023/24,2080/81,final,domestic_credit_pct_gdp,113.850187,A26.Monetary Ind. % of GDP
+2024/25,2081/82,final,domestic_credit_pct_gdp,112.19687916979208,A26.Monetary Ind. % of GDP
+2025/26,2082/83,final,domestic_credit_pct_gdp,107.59653775280846,A26.Monetary Ind. % of GDP
+1974/75,2031/32,final,private_credit_pct_gdp,4.72753605696699,A26.Monetary Ind. % of GDP
+1975/76,2032/33,final,private_credit_pct_gdp,4.117511785673221,A26.Monetary Ind. % of GDP
+1976/77,2033/34,final,private_credit_pct_gdp,5.001157407407407,A26.Monetary Ind. % of GDP
+1977/78,2034/35,final,private_credit_pct_gdp,5.4282383944861134,A26.Monetary Ind. % of GDP
+1978/79,2035/36,final,private_credit_pct_gdp,5.994148098131893,A26.Monetary Ind. % of GDP
+1979/80,2036/37,final,private_credit_pct_gdp,8.207357286625841,A26.Monetary Ind. % of GDP
+1980/81,2037/38,final,private_credit_pct_gdp,9.148203757278353,A26.Monetary Ind. % of GDP
+1981/82,2038/39,final,private_credit_pct_gdp,8.513618174777331,A26.Monetary Ind. % of GDP
+1982/83,2039/40,final,private_credit_pct_gdp,7.994727644323331,A26.Monetary Ind. % of GDP
+1983/84,2040/41,final,private_credit_pct_gdp,8.057882711348057,A26.Monetary Ind. % of GDP
+1984/85,2041/42,final,private_credit_pct_gdp,8.664648936398565,A26.Monetary Ind. % of GDP
+1985/86,2042/43,final,private_credit_pct_gdp,9.272436932572576,A26.Monetary Ind. % of GDP
+1986/87,2043/44,final,private_credit_pct_gdp,9.602436427408243,A26.Monetary Ind. % of GDP
+1987/88,2044/45,final,private_credit_pct_gdp,10.3335240423374,A26.Monetary Ind. % of GDP
+1988/89,2045/46,final,private_credit_pct_gdp,11.601881931219895,A26.Monetary Ind. % of GDP
+1989/90,2046/47,final,private_credit_pct_gdp,11.301539413630387,A26.Monetary Ind. % of GDP
+1990/91,2047/48,final,private_credit_pct_gdp,11.721109911107419,A26.Monetary Ind. % of GDP
+1991/92,2048/49,final,private_credit_pct_gdp,11.89414464134005,A26.Monetary Ind. % of GDP
+1992/93,2049/50,final,private_credit_pct_gdp,12.368580659458578,A26.Monetary Ind. % of GDP
+1993/94,2050/51,final,private_credit_pct_gdp,14.85753141434823,A26.Monetary Ind. % of GDP
+1994/95,2051/52,final,private_credit_pct_gdp,19.13680848636934,A26.Monetary Ind. % of GDP
+1995/96,2052/53,final,private_credit_pct_gdp,22.306870271942405,A26.Monetary Ind. % of GDP
+1996/97,2053/54,final,private_credit_pct_gdp,23.050161668086684,A26.Monetary Ind. % of GDP
+1997/98,2054/55,final,private_credit_pct_gdp,25.538101015473085,A26.Monetary Ind. % of GDP
+1998/99,2055/56,final,private_credit_pct_gdp,26.54705937386708,A26.Monetary Ind. % of GDP
+1999/00,2056/57,final,private_credit_pct_gdp,28.840859263007,A26.Monetary Ind. % of GDP
+2000/01,2057/58,final,private_credit_pct_gdp,28.70950061039276,A26.Monetary Ind. % of GDP
+2001/02,2058/59,final,private_credit_pct_gdp,29.016722422585605,A26.Monetary Ind. % of GDP
+2002/03,2059/60,final,private_credit_pct_gdp,30.667897795953525,A26.Monetary Ind. % of GDP
+2003/04,2060/61,final,private_credit_pct_gdp,32.14100072845967,A26.Monetary Ind. % of GDP
+2004/05,2061/62,final,private_credit_pct_gdp,33.42600761436822,A26.Monetary Ind. % of GDP
+2005/06,2062/63,final,private_credit_pct_gdp,37.2383975146923,A26.Monetary Ind. % of GDP
+2006/07,2063/64,final,private_credit_pct_gdp,37.574507755473384,A26.Monetary Ind. % of GDP
+2007/08,2064/65,final,private_credit_pct_gdp,41.66379980852141,A26.Monetary Ind. % of GDP
+2008/09,2065/66,final,private_credit_pct_gdp,44.35566004868484,A26.Monetary Ind. % of GDP
+2009/10,2066/67,final,private_credit_pct_gdp,41.973645932388976,A26.Monetary Ind. % of GDP
+2010/11,2067/68,final,private_credit_pct_gdp,46.652778403320525,A26.Monetary Ind. % of GDP
+2011/12,2068/69,final,private_credit_pct_gdp,46.05524562597502,A26.Monetary Ind. % of GDP
+2012/13,2069/70,final,private_credit_pct_gdp,49.916824745240454,A26.Monetary Ind. % of GDP
+2013/14,2070/71,final,private_credit_pct_gdp,51.548110916514254,A26.Monetary Ind. % of GDP
+2014/15,2071/72,final,private_credit_pct_gdp,56.68935949302546,A26.Monetary Ind. % of GDP
+2015/16,2072/73,final,private_credit_pct_gdp,64.88444773315813,A26.Monetary Ind. % of GDP
+2016/17,2073/74,final,private_credit_pct_gdp,64.90302055325598,A26.Monetary Ind. % of GDP
+2017/18,2074/75,final,private_credit_pct_gdp,70.68344435357825,A26.Monetary Ind. % of GDP
+2018/19,2075/76,final,private_credit_pct_gdp,75.41664761545383,A26.Monetary Ind. % of GDP
+2019/20,2076/77,final,private_credit_pct_gdp,84.26695082264145,A26.Monetary Ind. % of GDP
+2020/21,2077/78,final,private_credit_pct_gdp,95.10643571825806,A26.Monetary Ind. % of GDP
+2021/22,2078/79,final,private_credit_pct_gdp,94.2217338316846,A26.Monetary Ind. % of GDP
+2022/23,2079/80,final,private_credit_pct_gdp,91.36113751878891,A26.Monetary Ind. % of GDP
+2023/24,2080/81,final,private_credit_pct_gdp,90.31741,A26.Monetary Ind. % of GDP
+2024/25,2081/82,final,private_credit_pct_gdp,90.72277811219696,A26.Monetary Ind. % of GDP
+2025/26,2082/83,final,private_credit_pct_gdp,90.83737186004555,A26.Monetary Ind. % of GDP
+1974/75,2031/32,final,deposits_pct_gdp,7.037595799891376,A26.Monetary Ind. % of GDP
+1975/76,2032/33,final,deposits_pct_gdp,9.202023686328618,A26.Monetary Ind. % of GDP
+1976/77,2033/34,final,deposits_pct_gdp,12.343171296296298,A26.Monetary Ind. % of GDP
+1977/78,2034/35,final,deposits_pct_gdp,12.75998378268802,A26.Monetary Ind. % of GDP
+1978/79,2035/36,final,deposits_pct_gdp,13.064145847400404,A26.Monetary Ind. % of GDP
+1979/80,2036/37,final,deposits_pct_gdp,14.259346494796796,A26.Monetary Ind. % of GDP
+1980/81,2037/38,final,deposits_pct_gdp,15.17266634928773,A26.Monetary Ind. % of GDP
+1981/82,2038/39,final,deposits_pct_gdp,15.835161998192849,A26.Monetary Ind. % of GDP
+1982/83,2039/40,final,deposits_pct_gdp,18.62059773110986,A26.Monetary Ind. % of GDP
+1983/84,2040/41,final,deposits_pct_gdp,17.941101802487943,A26.Monetary Ind. % of GDP
+1984/85,2041/42,final,deposits_pct_gdp,18.32292270375856,A26.Monetary Ind. % of GDP
+1985/86,2042/43,final,deposits_pct_gdp,18.437040226791545,A26.Monetary Ind. % of GDP
+1986/87,2043/44,final,deposits_pct_gdp,18.49617938118502,A26.Monetary Ind. % of GDP
+1987/88,2044/45,final,deposits_pct_gdp,19.441786076508986,A26.Monetary Ind. % of GDP
+1988/89,2045/46,final,deposits_pct_gdp,21.23288898846197,A26.Monetary Ind. % of GDP
+1989/90,2046/47,final,deposits_pct_gdp,21.162102576003715,A26.Monetary Ind. % of GDP
+1990/91,2047/48,final,deposits_pct_gdp,22.17122206529866,A26.Monetary Ind. % of GDP
+1991/92,2048/49,final,deposits_pct_gdp,22.295249754159226,A26.Monetary Ind. % of GDP
+1992/93,2049/50,final,deposits_pct_gdp,25.39341241237739,A26.Monetary Ind. % of GDP
+1993/94,2050/51,final,deposits_pct_gdp,26.179543538480065,A26.Monetary Ind. % of GDP
+1994/95,2051/52,final,deposits_pct_gdp,27.85240104938975,A26.Monetary Ind. % of GDP
+1995/96,2052/53,final,deposits_pct_gdp,28.60895172208763,A26.Monetary Ind. % of GDP
+1996/97,2053/54,final,deposits_pct_gdp,29.069847030262412,A26.Monetary Ind. % of GDP
+1997/98,2054/55,final,deposits_pct_gdp,34.03918961591517,A26.Monetary Ind. % of GDP
+1998/99,2055/56,final,deposits_pct_gdp,37.09831713620789,A26.Monetary Ind. % of GDP
+1999/00,2056/57,final,deposits_pct_gdp,40.74181528796695,A26.Monetary Ind. % of GDP
+2000/01,2057/58,final,deposits_pct_gdp,41.04090650685474,A26.Monetary Ind. % of GDP
+2001/02,2058/59,final,deposits_pct_gdp,39.98931314657096,A26.Monetary Ind. % of GDP
+2002/03,2059/60,final,deposits_pct_gdp,41.18670705420829,A26.Monetary Ind. % of GDP
+2003/04,2060/61,final,deposits_pct_gdp,43.33054556226467,A26.Monetary Ind. % of GDP
+2004/05,2061/62,final,deposits_pct_gdp,42.49402879479888,A26.Monetary Ind. % of GDP
+2005/06,2062/63,final,deposits_pct_gdp,44.333137334042725,A26.Monetary Ind. % of GDP
+2006/07,2063/64,final,deposits_pct_gdp,45.95230987064083,A26.Monetary Ind. % of GDP
+2007/08,2064/65,final,deposits_pct_gdp,51.67895675742302,A26.Monetary Ind. % of GDP
+2008/09,2065/66,final,deposits_pct_gdp,55.72122276191587,A26.Monetary Ind. % of GDP
+2009/10,2066/67,final,deposits_pct_gdp,52.03071829092253,A26.Monetary Ind. % of GDP
+2010/11,2067/68,final,deposits_pct_gdp,52.8048849444904,A26.Monetary Ind. % of GDP
+2011/12,2068/69,final,deposits_pct_gdp,57.54293241877,A26.Monetary Ind. % of GDP
+2012/13,2069/70,final,deposits_pct_gdp,60.94974611355328,A26.Monetary Ind. % of GDP
+2013/14,2070/71,final,deposits_pct_gdp,63.01247792765413,A26.Monetary Ind. % of GDP
+2014/15,2071/72,final,deposits_pct_gdp,69.68159141011098,A26.Monetary Ind. % of GDP
+2015/16,2072/73,final,deposits_pct_gdp,77.32643950982478,A26.Monetary Ind. % of GDP
+2016/17,2073/74,final,deposits_pct_gdp,74.7383583951517,A26.Monetary Ind. % of GDP
+2017/18,2074/75,final,deposits_pct_gdp,79.34442035838313,A26.Monetary Ind. % of GDP
+2018/19,2075/76,final,deposits_pct_gdp,83.83324962219537,A26.Monetary Ind. % of GDP
+2019/20,2076/77,final,deposits_pct_gdp,98.74055094694678,A26.Monetary Ind. % of GDP
+2020/21,2077/78,final,deposits_pct_gdp,107.12637521473822,A26.Monetary Ind. % of GDP
+2021/22,2078/79,final,deposits_pct_gdp,102.13423842265162,A26.Monetary Ind. % of GDP
+2022/23,2079/80,final,deposits_pct_gdp,106.39127880419849,A26.Monetary Ind. % of GDP
+2023/24,2080/81,final,deposits_pct_gdp,112.016,A26.Monetary Ind. % of GDP
+2024/25,2081/82,final,deposits_pct_gdp,117.16182172697438,A26.Monetary Ind. % of GDP
+2025/26,2082/83,final,deposits_pct_gdp,125.40609714076308,A26.Monetary Ind. % of GDP
+1974/75,2031/32,final,gdp_nominal_npr_bn,16.601,A1.GDP-annex
+1975/76,2032/33,final,gdp_nominal_npr_bn,17.394,A1.GDP-annex
+1976/77,2033/34,final,gdp_nominal_npr_bn,17.28,A1.GDP-annex
+1977/78,2034/35,final,gdp_nominal_npr_bn,19.727,A1.GDP-annex
+1978/79,2035/36,final,gdp_nominal_npr_bn,26.128,A1.GDP-annex
+1979/80,2036/37,final,gdp_nominal_npr_bn,23.351,A1.GDP-annex
+1980/81,2037/38,final,gdp_nominal_npr_bn,27.307,A1.GDP-annex
+1981/82,2038/39,final,gdp_nominal_npr_bn,30.988,A1.GDP-annex
+1982/83,2039/40,final,gdp_nominal_npr_bn,33.821,A1.GDP-annex
+1983/84,2040/41,final,gdp_nominal_npr_bn,39.29,A1.GDP-annex
+1984/85,2041/42,final,gdp_nominal_npr_bn,46.587,A1.GDP-annex
+1985/86,2042/43,final,gdp_nominal_npr_bn,55.734,A1.GDP-annex
+1986/87,2043/44,final,gdp_nominal_npr_bn,63.864,A1.GDP-annex
+1987/88,2044/45,final,gdp_nominal_npr_bn,76.906,A1.GDP-annex
+1988/89,2045/46,final,gdp_nominal_npr_bn,89.27,A1.GDP-annex
+1989/90,2046/47,final,gdp_nominal_npr_bn,103.416,A1.GDP-annex
+1990/91,2047/48,final,gdp_nominal_npr_bn,120.37,A1.GDP-annex
+1991/92,2048/49,final,gdp_nominal_npr_bn,149.487,A1.GDP-annex
+1992/93,2049/50,final,gdp_nominal_npr_bn,171.474,A1.GDP-annex
+1993/94,2050/51,final,gdp_nominal_npr_bn,199.272,A1.GDP-annex
+1994/95,2051/52,final,gdp_nominal_npr_bn,219.175,A1.GDP-annex
+1995/96,2052/53,final,gdp_nominal_npr_bn,248.913,A1.GDP-annex
+1996/97,2053/54,final,gdp_nominal_npr_bn,280.513,A1.GDP-annex
+1997/98,2054/55,final,gdp_nominal_npr_bn,300.845,A1.GDP-annex
+1998/99,2055/56,final,gdp_nominal_npr_bn,342.036,A1.GDP-annex
+1999/00,2056/57,final,gdp_nominal_npr_bn,379.488,A1.GDP-annex
+2000/01,2057/58,final,gdp_nominal_npr_bn,441.519,A1.GDP-annex
+2001/02,2058/59,final,gdp_nominal_npr_bn,459.4425510487903,A1.GDP-annex
+2002/03,2059/60,final,gdp_nominal_npr_bn,492.23077906186245,A1.GDP-annex
+2003/04,2060/61,final,gdp_nominal_npr_bn,536.749054896191,A1.GDP-annex
+2004/05,2061/62,final,gdp_nominal_npr_bn,589.411673207203,A1.GDP-annex
+2005/06,2062/63,final,gdp_nominal_npr_bn,654.084128414334,A1.GDP-annex
+2006/07,2063/64,final,gdp_nominal_npr_bn,727.8269665692779,A1.GDP-annex
+2007/08,2064/65,final,gdp_nominal_npr_bn,815.6582010325769,A1.GDP-annex
+2008/09,2065/66,final,gdp_nominal_npr_bn,988.2715269415709,A1.GDP-annex
+2009/10,2066/67,final,gdp_nominal_npr_bn,1192.773573865381,A1.GDP-annex
+2010/11,2067/68,final,gdp_nominal_npr_bn,1562.6809822084851,A1.GDP-annex
+2011/12,2068/69,final,gdp_nominal_npr_bn,1758.3791778574468,A1.GDP-annex
+2012/13,2069/70,final,gdp_nominal_npr_bn,1949.2948185045589,A1.GDP-annex
+2013/14,2070/71,final,gdp_nominal_npr_bn,2232.5252835277543,A1.GDP-annex
+2014/15,2071/72,final,gdp_nominal_npr_bn,2423.638482847995,A1.GDP-annex
+2015/16,2072/73,final,gdp_nominal_npr_bn,2608.184437723869,A1.GDP-annex
+2016/17,2073/74,final,gdp_nominal_npr_bn,3077.144919308957,A1.GDP-annex
+2017/18,2074/75,final,gdp_nominal_npr_bn,3455.9492898334256,A1.GDP-annex
+2018/19,2075/76,final,gdp_nominal_npr_bn,3858.9304023853724,A1.GDP-annex
+2019/20,2076/77,final,gdp_nominal_npr_bn,3888.703650913834,A1.GDP-annex
+2020/21,2077/78,final,gdp_nominal_npr_bn,4352.550240995396,A1.GDP-annex
+2021/22,2078/79,final,gdp_nominal_npr_bn,4976.5576957059375,A1.GDP-annex
+2022/23,2079/80,final,gdp_nominal_npr_bn,5366.996,A1.GDP-annex
+2023/24,2080/81,final,gdp_nominal_npr_bn,5760.235,A1.GDP-annex
+2024/25,2081/82,revised,gdp_nominal_npr_bn,6199.865,A1.GDP-annex
+2025/26,2082/83,preliminary,gdp_nominal_npr_bn,6600.099,A1.GDP-annex
+1974/75,2031/32,final,gdp_nominal_growth_pct,,A1.GDP-annex
+1975/76,2032/33,final,gdp_nominal_growth_pct,4.7768206734534004,A1.GDP-annex
+1976/77,2033/34,final,gdp_nominal_growth_pct,-0.6553984132459476,A1.GDP-annex
+1977/78,2034/35,final,gdp_nominal_growth_pct,14.160879629629619,A1.GDP-annex
+1978/79,2035/36,final,gdp_nominal_growth_pct,32.44791402646118,A1.GDP-annex
+1979/80,2036/37,final,gdp_nominal_growth_pct,-10.628444580526647,A1.GDP-annex
+1980/81,2037/38,final,gdp_nominal_growth_pct,16.94145860990963,A1.GDP-annex
+1981/82,2038/39,final,gdp_nominal_growth_pct,13.480060057860626,A1.GDP-annex
+1982/83,2039/40,final,gdp_nominal_growth_pct,9.142248612366075,A1.GDP-annex
+1983/84,2040/41,final,gdp_nominal_growth_pct,16.17042665799356,A1.GDP-annex
+1984/85,2041/42,final,gdp_nominal_growth_pct,18.572155764825652,A1.GDP-annex
+1985/86,2042/43,final,gdp_nominal_growth_pct,19.634232725867733,A1.GDP-annex
+1986/87,2043/44,final,gdp_nominal_growth_pct,14.587146086769295,A1.GDP-annex
+1987/88,2044/45,final,gdp_nominal_growth_pct,20.421520731554537,A1.GDP-annex
+1988/89,2045/46,final,gdp_nominal_growth_pct,16.076769042727477,A1.GDP-annex
+1989/90,2046/47,final,gdp_nominal_growth_pct,15.84630895037526,A1.GDP-annex
+1990/91,2047/48,final,gdp_nominal_growth_pct,16.3939815889224,A1.GDP-annex
+1991/92,2048/49,final,gdp_nominal_growth_pct,24.189582121791148,A1.GDP-annex
+1992/93,2049/50,final,gdp_nominal_growth_pct,14.708302394188124,A1.GDP-annex
+1993/94,2050/51,final,gdp_nominal_growth_pct,16.21120403093181,A1.GDP-annex
+1994/95,2051/52,final,gdp_nominal_growth_pct,9.987855795094134,A1.GDP-annex
+1995/96,2052/53,final,gdp_nominal_growth_pct,13.568153302155821,A1.GDP-annex
+1996/97,2053/54,final,gdp_nominal_growth_pct,12.695198724052176,A1.GDP-annex
+1997/98,2054/55,final,gdp_nominal_growth_pct,7.2481489271442,A1.GDP-annex
+1998/99,2055/56,final,gdp_nominal_growth_pct,13.69176818627534,A1.GDP-annex
+1999/00,2056/57,final,gdp_nominal_growth_pct,10.949724590393984,A1.GDP-annex
+2000/01,2057/58,final,gdp_nominal_growth_pct,16.345971414115866,A1.GDP-annex
+2001/02,2058/59,final,gdp_nominal_growth_pct,4.059519759917535,A1.GDP-annex
+2002/03,2059/60,final,gdp_nominal_growth_pct,7.136524019863842,A1.GDP-annex
+2003/04,2060/61,final,gdp_nominal_growth_pct,9.044187752577244,A1.GDP-annex
+2004/05,2061/62,final,gdp_nominal_growth_pct,9.811404012848612,A1.GDP-annex
+2005/06,2062/63,final,gdp_nominal_growth_pct,10.972374343253975,A1.GDP-annex
+2006/07,2063/64,final,gdp_nominal_growth_pct,11.274213048666269,A1.GDP-annex
+2007/08,2064/65,final,gdp_nominal_growth_pct,12.067598275082432,A1.GDP-annex
+2008/09,2065/66,final,gdp_nominal_growth_pct,21.16245820742995,A1.GDP-annex
+2009/10,2066/67,final,gdp_nominal_growth_pct,20.692900822174636,A1.GDP-annex
+2010/11,2067/68,final,gdp_nominal_growth_pct,,A1.GDP-annex
+2011/12,2068/69,final,gdp_nominal_growth_pct,12.523233972706834,A1.GDP-annex
+2012/13,2069/70,final,gdp_nominal_growth_pct,10.857478469447017,A1.GDP-annex
+2013/14,2070/71,final,gdp_nominal_growth_pct,14.529893699737102,A1.GDP-annex
+2014/15,2071/72,final,gdp_nominal_growth_pct,8.560404700915683,A1.GDP-annex
+2015/16,2072/73,final,gdp_nominal_growth_pct,7.614417586694515,A1.GDP-annex
+2016/17,2073/74,final,gdp_nominal_growth_pct,17.980341988174132,A1.GDP-annex
+2017/18,2074/75,final,gdp_nominal_growth_pct,12.310254487771658,A1.GDP-annex
+2018/19,2075/76,final,gdp_nominal_growth_pct,11.660504213340744,A1.GDP-annex
+2019/20,2076/77,final,gdp_nominal_growth_pct,0.77,A1.GDP-annex
+2020/21,2077/78,final,gdp_nominal_growth_pct,11.928051909344127,A1.GDP-annex
+2021/22,2078/79,final,gdp_nominal_growth_pct,14.336593954348828,A1.GDP-annex
+2022/23,2079/80,final,gdp_nominal_growth_pct,7.8455496382761964,A1.GDP-annex
+2023/24,2080/81,final,gdp_nominal_growth_pct,7.326985151470211,A1.GDP-annex
+2024/25,2081/82,revised,gdp_nominal_growth_pct,7.632153896499005,A1.GDP-annex
+2025/26,2082/83,preliminary,gdp_nominal_growth_pct,6.455527660682932,A1.GDP-annex
+1974/75,2031/32,final,gdp_real_growth_pct,,A1.GDP-annex
+1975/76,2032/33,final,gdp_real_growth_pct,3.468277945619363,A1.GDP-annex
+1976/77,2033/34,final,gdp_real_growth_pct,1.0102779724363842,A1.GDP-annex
+1977/78,2034/35,final,gdp_real_growth_pct,3.1277100075157307,A1.GDP-annex
+1978/79,2035/36,final,gdp_real_growth_pct,2.130283664087898,A1.GDP-annex
+1979/80,2036/37,final,gdp_real_growth_pct,-1.504007026018229,A1.GDP-annex
+1980/81,2037/38,final,gdp_real_growth_pct,10.031208203299144,A1.GDP-annex
+1981/82,2038/39,final,gdp_real_growth_pct,4.411466774716374,A1.GDP-annex
+1982/83,2039/40,final,gdp_real_growth_pct,0.4074702886247792,A1.GDP-annex
+1983/84,2040/41,final,gdp_real_growth_pct,8.797526450553164,A1.GDP-annex
+1984/85,2041/42,final,gdp_real_growth_pct,5.381882770870348,A1.GDP-annex
+1985/86,2042/43,final,gdp_real_growth_pct,4.565749366762546,A1.GDP-annex
+1986/87,2043/44,final,gdp_real_growth_pct,1.699751606347391,A1.GDP-annex
+1987/88,2044/45,final,gdp_real_growth_pct,7.696655295613766,A1.GDP-annex
+1988/89,2045/46,final,gdp_real_growth_pct,4.327698017018406,A1.GDP-annex
+1989/90,2046/47,final,gdp_real_growth_pct,4.635035840684125,A1.GDP-annex
+1990/91,2047/48,final,gdp_real_growth_pct,6.36643030063702,A1.GDP-annex
+1991/92,2048/49,final,gdp_real_growth_pct,4.10808542234993,A1.GDP-annex
+1992/93,2049/50,final,gdp_real_growth_pct,3.8467501860580455,A1.GDP-annex
+1993/94,2050/51,final,gdp_real_growth_pct,8.21923944040492,A1.GDP-annex
+1994/95,2051/52,final,gdp_real_growth_pct,3.4684473386495966,A1.GDP-annex
+1995/96,2052/53,final,gdp_real_growth_pct,5.3376134471054115,A1.GDP-annex
+1996/97,2053/54,final,gdp_real_growth_pct,5.260966830425403,A1.GDP-annex
+1997/98,2054/55,final,gdp_real_growth_pct,2.942081130470825,A1.GDP-annex
+1998/99,2055/56,final,gdp_real_growth_pct,4.483720113809781,A1.GDP-annex
+1999/00,2056/57,final,gdp_real_growth_pct,6.115509857413699,A1.GDP-annex
+2000/01,2057/58,final,gdp_real_growth_pct,5.6284311524220385,A1.GDP-annex
+2001/02,2058/59,final,gdp_real_growth_pct,0.12015387503261366,A1.GDP-annex
+2002/03,2059/60,final,gdp_real_growth_pct,3.945111804792049,A1.GDP-annex
+2003/04,2060/61,final,gdp_real_growth_pct,4.682600759237857,A1.GDP-annex
+2004/05,2061/62,final,gdp_real_growth_pct,3.479103943248802,A1.GDP-annex
+2005/06,2062/63,final,gdp_real_growth_pct,3.3645496902769025,A1.GDP-annex
+2006/07,2063/64,final,gdp_real_growth_pct,3.4116642182362824,A1.GDP-annex
+2007/08,2064/65,final,gdp_real_growth_pct,6.104588916086911,A1.GDP-annex
+2008/09,2065/66,final,gdp_real_growth_pct,4.5331333121547885,A1.GDP-annex
+2009/10,2066/67,final,gdp_real_growth_pct,4.816403873924543,A1.GDP-annex
+2010/11,2067/68,final,gdp_real_growth_pct,,A1.GDP-annex
+2011/12,2068/69,final,gdp_real_growth_pct,4.6701221485016475,A1.GDP-annex
+2012/13,2069/70,final,gdp_real_growth_pct,3.525153173819689,A1.GDP-annex
+2013/14,2070/71,final,gdp_real_growth_pct,6.011482840807474,A1.GDP-annex
+2014/15,2071/72,final,gdp_real_growth_pct,3.976053273982288,A1.GDP-annex
+2015/16,2072/73,final,gdp_real_growth_pct,0.43311371777683405,A1.GDP-annex
+2016/17,2073/74,final,gdp_real_growth_pct,8.977279354212996,A1.GDP-annex
+2017/18,2074/75,final,gdp_real_growth_pct,7.6223761076818874,A1.GDP-annex
+2018/19,2075/76,final,gdp_real_growth_pct,6.657055428028343,A1.GDP-annex
+2019/20,2076/77,final,gdp_real_growth_pct,-2.37,A1.GDP-annex
+2020/21,2077/78,final,gdp_real_growth_pct,4.8381498272749335,A1.GDP-annex
+2021/22,2078/79,final,gdp_real_growth_pct,5.631314558333273,A1.GDP-annex
+2022/23,2079/80,final,gdp_real_growth_pct,1.9825484344761861,A1.GDP-annex
+2023/24,2080/81,final,gdp_real_growth_pct,3.6778679901955798,A1.GDP-annex
+2024/25,2081/82,revised,gdp_real_growth_pct,4.430720017706562,A1.GDP-annex
+2025/26,2082/83,preliminary,gdp_real_growth_pct,3.8512527293758723,A1.GDP-annex
+1974/75,2031/32,final,m1_npr_bn,1.3377000000000001,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,m1_npr_bn,1.4525000000000001,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,m1_npr_bn,1.8528999999999998,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,m1_npr_bn,2.0606000000000004,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,m1_npr_bn,2.504900000000001,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,m1_npr_bn,2.8303999999999996,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,m1_npr_bn,3.2078,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,m1_npr_bn,3.6115,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,m1_npr_bn,4.348900000000001,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,m1_npr_bn,4.9315,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,m1_npr_bn,5.480000000000002,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,m1_npr_bn,7.029300000000001,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,m1_npr_bn,8.1202,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,m1_npr_bn,9.596600000000002,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,m1_npr_bn,11.775400000000001,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,m1_npr_bn,14.222999999999999,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,m1_npr_bn,16.283600000000003,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,m1_npr_bn,19.457699999999996,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,m1_npr_bn,23.83299999999999,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,m1_npr_bn,28.510400000000015,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,m1_npr_bn,32.98539999999998,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,m1_npr_bn,36.498000000000005,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,m1_npr_bn,38.46029999999999,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,m1_npr_bn,45.16379999999999,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,m1_npr_bn,51.06249999999999,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,m1_npr_bn,60.979699999999994,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,m1_npr_bn,70.57699999999998,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,m1_npr_bn,77.15619999999997,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,m1_npr_bn,83.75409999999998,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,m1_npr_bn,93.96969999999996,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,m1_npr_bn,100.20579999999995,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,m1_npr_bn,113.06080000000004,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,m1_npr_bn,126.88799000000002,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,m1_npr_bn,154.34389999999993,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,m1_npr_bn,196.4593765561,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,m1_npr_bn,218.15901777419643,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,m1_npr_bn,222.3513383114155,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,m1_npr_bn,263.70570088052824,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,m1_npr_bn,301.59019350571884,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,m1_npr_bn,354.83002748561836,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,m1_npr_bn,424.74463430879064,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,m1_npr_bn,503.28711484016503,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,m1_npr_bn,569.4023867268417,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,m1_npr_bn,669.3949252370901,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,m1_npr_bn,726.6427574513775,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,m1_npr_bn,856.2608454954503,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,m1_npr_bn,1051.6683988898676,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,m1_npr_bn,953.8539361766644,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,m1_npr_bn,965.162434621527,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,m1_npr_bn,948.8072724325364,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,m1_npr_bn,1157.1860594097925,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,m1_npr_bn,1363.8087712731074,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,m2_npr_bn,2.0644,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,m2_npr_bn,2.524,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,m2_npr_bn,3.223,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,m2_npr_bn,3.7721000000000005,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,m2_npr_bn,4.511400000000002,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,m2_npr_bn,5.285299999999999,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,m2_npr_bn,6.3077000000000005,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,m2_npr_bn,7.458,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,m2_npr_bn,9.222400000000002,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,m2_npr_bn,10.455200000000001,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,m2_npr_bn,12.296600000000002,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,m2_npr_bn,15.159,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,m2_npr_bn,17.4982,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,m2_npr_bn,21.422600000000003,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,m2_npr_bn,26.605100000000004,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,m2_npr_bn,31.552400000000002,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,m2_npr_bn,37.712500000000006,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,m2_npr_bn,45.6705,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,m2_npr_bn,58.32249999999999,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,m2_npr_bn,69.7771,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,m2_npr_bn,80.98469999999999,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,m2_npr_bn,92.65220000000001,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,m2_npr_bn,103.72059999999999,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,m2_npr_bn,126.4626,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,m2_npr_bn,152.8002,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,m2_npr_bn,186.12079999999997,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,m2_npr_bn,214.45420000000001,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,m2_npr_bn,223.98829999999998,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,m2_npr_bn,245.91119999999998,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,m2_npr_bn,277.30609999999996,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,m2_npr_bn,300.44,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,m2_npr_bn,346.82410000000004,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,m2_npr_bn,395.51822,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,m2_npr_bn,495.3771,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,m2_npr_bn,630.5211675561001,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,m2_npr_bn,719.5991188342865,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,m2_npr_bn,921.3201383114156,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,m2_npr_bn,1130.302292475211,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,m2_npr_bn,1315.3762767305411,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,m2_npr_bn,1565.9671585125798,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,m2_npr_bn,1877.8015328829001,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,m2_npr_bn,2244.5785723777703,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,m2_npr_bn,2591.7019945694055,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,m2_npr_bn,3094.466613641421,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,m2_npr_bn,3582.137649764204,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,m2_npr_bn,4230.96978441469,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,m2_npr_bn,5190.928769129109,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,m2_npr_bn,5544.372733900433,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,m2_npr_bn,6179.055313091658,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,m2_npr_bn,6974.063854698938,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,m2_npr_bn,7845.605526333061,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,m2_npr_bn,8897.197259296143,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,domestic_credit_npr_bn,1.6378000000000001,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,domestic_credit_npr_bn,1.7632999999999999,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,domestic_credit_npr_bn,2.125,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,domestic_credit_npr_bn,2.9052999999999995,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,domestic_credit_npr_bn,3.5408,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,domestic_credit_npr_bn,4.3058000000000005,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,domestic_credit_npr_bn,5.1613999999999995,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,domestic_credit_npr_bn,6.043100000000001,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,domestic_credit_npr_bn,8.4909,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,domestic_credit_npr_bn,9.8245,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,domestic_credit_npr_bn,12.550900000000002,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,domestic_credit_npr_bn,15.322899999999999,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,domestic_credit_npr_bn,17.803099999999997,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,domestic_credit_npr_bn,20.469300000000004,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,domestic_credit_npr_bn,26.5843,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,domestic_credit_npr_bn,29.6616,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,domestic_credit_npr_bn,34.49139999999999,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,domestic_credit_npr_bn,41.6091,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,domestic_credit_npr_bn,49.404900000000005,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,domestic_credit_npr_bn,57.828100000000006,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,domestic_credit_npr_bn,72.18469999999999,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,domestic_credit_npr_bn,89.2657,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,domestic_credit_npr_bn,100.91669999999999,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,domestic_credit_npr_bn,115.8121,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,domestic_credit_npr_bn,134.83270000000002,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,domestic_credit_npr_bn,158.0011,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,domestic_credit_npr_bn,187.8714,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,domestic_credit_npr_bn,207.323,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,domestic_credit_npr_bn,228.44379999999998,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,domestic_credit_npr_bn,251.089,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,domestic_credit_npr_bn,285.1575,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,domestic_credit_npr_bn,327.63439999999997,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,domestic_credit_npr_bn,365.22512,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,domestic_credit_npr_bn,442.28229999999996,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,domestic_credit_npr_bn,560.6706960404599,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,domestic_credit_npr_bn,654.6664006327871,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,domestic_credit_npr_bn,910.2248589662817,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,domestic_credit_npr_bn,994.691470325891,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,domestic_credit_npr_bn,1165.8662782705703,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,domestic_credit_npr_bn,1314.3049647224668,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,domestic_credit_npr_bn,1527.345878273834,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,domestic_credit_npr_bn,1805.7359748320362,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,domestic_credit_npr_bn,2177.792034067612,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,domestic_credit_npr_bn,2755.8930441511484,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,domestic_credit_npr_bn,3417.982956922781,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,domestic_credit_npr_bn,3897.627871115015,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,domestic_credit_npr_bn,4955.476515742664,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,domestic_credit_npr_bn,5674.954279199192,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,domestic_credit_npr_bn,6182.656646106428,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,domestic_credit_npr_bn,6558.038215818632,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,domestic_credit_npr_bn,6956.055163082663,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,domestic_credit_npr_bn,7101.477545734383,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,private_credit_npr_bn,0.7834,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,private_credit_npr_bn,0.7162000000000001,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,private_credit_npr_bn,0.8642000000000001,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,private_credit_npr_bn,1.0711,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,private_credit_npr_bn,1.3316,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,private_credit_npr_bn,1.9165,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,private_credit_npr_bn,2.4981,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,private_credit_npr_bn,2.6382,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,private_credit_npr_bn,2.6991,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,private_credit_npr_bn,3.174,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,private_credit_npr_bn,4.0366,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,private_credit_npr_bn,5.1678999999999995,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,private_credit_npr_bn,6.1325,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,private_credit_npr_bn,7.947100000000001,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,private_credit_npr_bn,10.357,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,private_credit_npr_bn,11.6876,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,private_credit_npr_bn,14.1087,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,private_credit_npr_bn,17.7802,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,private_credit_npr_bn,21.2089,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,private_credit_npr_bn,29.606900000000003,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,private_credit_npr_bn,41.9431,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,private_credit_npr_bn,55.524699999999996,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,private_credit_npr_bn,64.6587,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,private_credit_npr_bn,76.8301,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,private_credit_npr_bn,90.8005,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,private_credit_npr_bn,109.44760000000001,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,private_credit_npr_bn,126.75789999999999,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,private_credit_npr_bn,133.31529999999998,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,private_credit_npr_bn,150.9569,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,private_credit_npr_bn,172.5165,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,private_credit_npr_bn,197.0169,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,private_credit_npr_bn,243.5704,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,private_credit_npr_bn,273.47740000000005,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,private_credit_npr_bn,339.8342,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,private_credit_npr_bn,438.35435884814996,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,private_credit_npr_bn,500.6505566693571,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,private_credit_npr_bn,727.3224,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,private_credit_npr_bn,809.8258493982473,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,private_credit_npr_bn,973.0260783209735,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,private_credit_npr_bn,1150.8246093921111,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,private_credit_npr_bn,1373.945132353008,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,private_credit_npr_bn,1692.3060682793077,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,private_credit_npr_bn,1997.1599994325647,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,private_credit_npr_bn,2442.783993167292,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,private_credit_npr_bn,2910.2759432925905,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,private_credit_npr_bn,3276.8919931538226,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,private_credit_npr_bn,4139.555397057173,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,private_credit_npr_bn,4688.998946028264,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,private_credit_npr_bn,4903.348808411826,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,private_credit_npr_bn,5202.494718445176,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,private_credit_npr_bn,5624.68986451506,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,private_credit_npr_bn,5995.356077903168,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,deposits_npr_bn,1.1662,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,deposits_npr_bn,1.6005999999999998,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,deposits_npr_bn,2.1329000000000002,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,deposits_npr_bn,2.5178000000000003,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,deposits_npr_bn,2.9021999999999997,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,deposits_npr_bn,3.3297,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,deposits_npr_bn,4.143200000000001,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,deposits_npr_bn,4.907,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,deposits_npr_bn,6.2865,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,deposits_npr_bn,7.067,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,deposits_npr_bn,8.536100000000001,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,deposits_npr_bn,10.2757,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,deposits_npr_bn,11.8124,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,deposits_npr_bn,14.9519,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,deposits_npr_bn,18.9546,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,deposits_npr_bn,21.885,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,deposits_npr_bn,26.6875,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,deposits_npr_bn,33.3285,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,deposits_npr_bn,43.5431,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,deposits_npr_bn,52.1685,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,deposits_npr_bn,61.04549999999999,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,deposits_npr_bn,71.2114,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,deposits_npr_bn,81.54469999999999,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,deposits_npr_bn,102.4052,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,deposits_npr_bn,126.8896,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,deposits_npr_bn,154.61030000000002,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,deposits_npr_bn,181.2034,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,deposits_npr_bn,183.72809999999998,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,deposits_npr_bn,202.73374,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,deposits_npr_bn,232.57626999999997,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,deposits_npr_bn,250.464905,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,deposits_npr_bn,289.975958,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,deposits_npr_bn,334.453303,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,deposits_npr_bn,421.523649,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,deposits_npr_bn,550.6769790197001,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,deposits_npr_bn,620.6086580664652,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,deposits_npr_bn,823.2344774307601,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,deposits_npr_bn,1011.8229419802342,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,deposits_npr_bn,1188.090242883178,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,deposits_npr_bn,1406.7695015122238,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,deposits_npr_bn,1688.829864876353,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,deposits_npr_bn,2016.8161615412112,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,deposits_npr_bn,2299.80759813133,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,deposits_npr_bn,2742.1029318979895,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,deposits_npr_bn,3235.0667569785173,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,deposits_npr_bn,3839.7274096063534,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,deposits_npr_bn,4662.72930257872,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,deposits_npr_bn,5082.769302173119,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,deposits_npr_bn,5710.01592490781,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,deposits_npr_bn,6452.386435051819,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,deposits_npr_bn,7263.874904280913,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,deposits_npr_bn,8276.926019583454,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,m1_growth_pct,4.418078214034844,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,m1_growth_pct,8.581894296180023,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,m1_growth_pct,27.566265060240937,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,m1_growth_pct,11.209455448216337,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,m1_growth_pct,21.561681063767864,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,m1_growth_pct,12.994530719789154,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,m1_growth_pct,13.333804409270794,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,m1_growth_pct,12.584949186358246,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,m1_growth_pct,20.418108819050296,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,m1_growth_pct,13.396491066706487,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,m1_growth_pct,11.122376558856368,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,m1_growth_pct,28.271897810218956,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,m1_growth_pct,15.519326248701843,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,m1_growth_pct,18.18181818181821,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,m1_growth_pct,22.703874288810606,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,m1_growth_pct,20.78570579343374,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,m1_growth_pct,14.487801448358336,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,m1_growth_pct,19.492618339924785,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,m1_growth_pct,22.486213684042802,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,m1_growth_pct,19.625729031175364,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,m1_growth_pct,15.696026713058957,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,m1_growth_pct,10.648953779551043,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,m1_growth_pct,5.376458984053868,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,m1_growth_pct,17.429661235091775,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,m1_growth_pct,13.060681342136856,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,m1_growth_pct,19.421689106487158,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,m1_growth_pct,15.738516260329238,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,m1_growth_pct,9.322017087719772,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,m1_growth_pct,8.551354265762196,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,m1_growth_pct,12.197134229846634,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,m1_growth_pct,6.636288080093912,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,m1_growth_pct,12.828598743785383,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,m1_growth_pct,12.229871007457906,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,m1_growth_pct,21.637910727406044,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,m1_growth_pct,27.286777485925967,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,m1_growth_pct,11.04535787422698,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,m1_growth_pct,1.9216810654869698,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,m1_growth_pct,18.59865691979494,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,m1_growth_pct,14.366201602275613,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,m1_growth_pct,17.653038834265008,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,m1_growth_pct,19.703689487216796,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,m1_growth_pct,18.49169458236729,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,m1_growth_pct,13.136690755072022,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,m1_growth_pct,17.560962307349378,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,m1_growth_pct,8.552176010896874,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,m1_growth_pct,17.837938236820122,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,m1_growth_pct,22.821031047069624,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,m1_growth_pct,-9.300884462864463,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,m1_growth_pct,1.1855587124995837,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,m1_growth_pct,-1.6945502230828278,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,m1_growth_pct,21.962182735279644,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,m1_growth_pct,17.855617167699968,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,m2_growth_pct,8.027210884353773,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,m2_growth_pct,22.26312730091067,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,m2_growth_pct,27.694136291600636,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,m2_growth_pct,17.036922122246363,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,m2_growth_pct,19.599162270353414,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,m2_growth_pct,17.15432016668878,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,m2_growth_pct,19.344218871208856,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,m2_growth_pct,18.236441175071725,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,m2_growth_pct,23.657817109144563,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,m2_growth_pct,13.367453157529482,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,m2_growth_pct,17.61228862192977,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,m2_growth_pct,23.27797927882502,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,m2_growth_pct,15.431097038063202,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,m2_growth_pct,22.427449680538576,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,m2_growth_pct,24.191741431945697,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,m2_growth_pct,18.595306914839632,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,m2_growth_pct,19.523396001572006,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,m2_growth_pct,21.101756711965507,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,m2_growth_pct,27.70278407286978,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,m2_growth_pct,19.640104590852612,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,m2_growth_pct,16.062003150030563,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,m2_growth_pct,14.407042317869958,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,m2_growth_pct,11.946181526180682,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,m2_growth_pct,21.926213307674658,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,m2_growth_pct,20.82639452296568,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,m2_growth_pct,21.806646849938684,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,m2_growth_pct,15.223123906624098,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,m2_growth_pct,4.445751120752113,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,m2_growth_pct,9.787520151722209,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,m2_growth_pct,12.766762961589384,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,m2_growth_pct,8.342369677407033,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,m2_growth_pct,15.438723205964596,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,m2_growth_pct,14.040004717088555,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,m2_growth_pct,25.247605533823453,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,m2_growth_pct,27.281048630649273,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,m2_growth_pct,14.127670229288658,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,m2_growth_pct,28.03241613245813,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,m2_growth_pct,22.682903094554664,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,m2_growth_pct,16.37384843748683,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,m2_growth_pct,19.050889560278492,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,m2_growth_pct,19.913212909682834,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,m2_growth_pct,19.532257966142698,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,m2_growth_pct,15.464970861942861,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,m2_growth_pct,19.399013471668333,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,m2_growth_pct,15.759453793198775,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,m2_growth_pct,18.11298716903022,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,m2_growth_pct,22.688864105117208,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,m2_growth_pct,6.8088771873211575,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,m2_growth_pct,11.447328844082426,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,m2_growth_pct,12.866182633498727,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,m2_growth_pct,12.496898362163723,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,m2_growth_pct,13.403576428020889,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,domestic_credit_growth_pct,68.81055452484026,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,domestic_credit_growth_pct,7.6627182806203304,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,domestic_credit_growth_pct,20.51267509782794,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,domestic_credit_growth_pct,36.719999999999985,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,domestic_credit_growth_pct,21.87381681754036,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,domestic_credit_growth_pct,21.60528694080435,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,domestic_credit_growth_pct,19.870871847275755,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,domestic_credit_growth_pct,17.08257449529199,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,domestic_credit_growth_pct,40.505700716519655,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,domestic_credit_growth_pct,15.70622666619558,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,domestic_credit_growth_pct,27.751030586798326,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,domestic_credit_growth_pct,22.086065541116557,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,domestic_credit_growth_pct,16.186231065920936,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,domestic_credit_growth_pct,14.976043498042502,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,domestic_credit_growth_pct,29.874006438910932,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,domestic_credit_growth_pct,11.575629224767999,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,domestic_credit_growth_pct,16.283005636917753,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,domestic_credit_growth_pct,20.636158578660204,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,domestic_credit_growth_pct,18.735805388725073,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,domestic_credit_growth_pct,17.049321018765355,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,domestic_credit_growth_pct,24.82633875226748,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,domestic_credit_growth_pct,23.66290917604423,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,domestic_credit_growth_pct,13.052045746574553,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,domestic_credit_growth_pct,14.760094216319015,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,domestic_credit_growth_pct,16.423672483272476,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,domestic_credit_growth_pct,17.18307205892932,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,domestic_credit_growth_pct,18.905121546622137,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,domestic_credit_growth_pct,10.353678101084043,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,domestic_credit_growth_pct,10.187388760533075,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,domestic_credit_growth_pct,9.91281006532023,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,domestic_credit_growth_pct,13.568296500444067,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,domestic_credit_growth_pct,14.895943469836832,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,domestic_credit_growth_pct,11.47337398026582,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,domestic_credit_growth_pct,21.098543276541328,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,domestic_credit_growth_pct,26.767608841787233,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,domestic_credit_growth_pct,16.76486844348009,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,domestic_credit_growth_pct,39.03644025208517,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,domestic_credit_growth_pct,9.279752198323381,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,domestic_credit_growth_pct,17.208834402550696,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,domestic_credit_growth_pct,12.73205076932909,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,domestic_credit_growth_pct,16.209397306534072,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,domestic_credit_growth_pct,18.22704997723444,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,domestic_credit_growth_pct,20.60412288514012,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,domestic_credit_growth_pct,26.545280772460984,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,domestic_credit_growth_pct,24.02451409269277,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,domestic_credit_growth_pct,14.03298144657982,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,domestic_credit_growth_pct,27.14083231155221,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,domestic_credit_growth_pct,14.518841148189802,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,domestic_credit_growth_pct,8.946369290906066,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,domestic_credit_growth_pct,6.071525416967868,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,domestic_credit_growth_pct,6.069146506404531,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,domestic_credit_growth_pct,2.0905869669278823,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,private_credit_growth_pct,11.643152344306673,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,private_credit_growth_pct,-8.577993362267032,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,private_credit_growth_pct,20.66461882155822,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,private_credit_growth_pct,23.941217310807666,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,private_credit_growth_pct,24.32079170945757,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,private_credit_growth_pct,43.92460198257736,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,private_credit_growth_pct,30.346986694495172,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,private_credit_growth_pct,5.60826227933229,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,private_credit_growth_pct,2.3083920855128532,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,private_credit_growth_pct,17.5947538068245,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,private_credit_growth_pct,27.17706364209199,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,private_credit_growth_pct,28.026061536937018,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,private_credit_growth_pct,18.66522185026801,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,private_credit_growth_pct,29.58988993069711,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,private_credit_growth_pct,30.324269230285257,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,private_credit_growth_pct,12.847349618615434,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,private_credit_growth_pct,20.71511687600534,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,private_credit_growth_pct,26.022950378135473,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,private_credit_growth_pct,19.283810080876485,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,private_credit_growth_pct,39.596584452753326,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,private_credit_growth_pct,41.6666385200747,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,private_credit_growth_pct,32.38101141784942,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,private_credit_growth_pct,16.450336516901487,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,private_credit_growth_pct,18.8240716253188,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,private_credit_growth_pct,18.183498394509435,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,private_credit_growth_pct,20.536340658917084,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,private_credit_growth_pct,15.81606175009775,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,private_credit_growth_pct,5.173168694022222,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,private_credit_growth_pct,13.2329897618653,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,private_credit_growth_pct,14.281957300395018,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,private_credit_growth_pct,14.201772004416965,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,private_credit_growth_pct,23.629191201363945,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,private_credit_growth_pct,12.278585575258747,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,private_credit_growth_pct,24.26408909840447,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,private_credit_growth_pct,28.990654515687336,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,private_credit_growth_pct,14.211378662892947,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,private_credit_growth_pct,45.27546016099669,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,private_credit_growth_pct,11.343449534655784,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,private_credit_growth_pct,20.15250921466566,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,private_credit_growth_pct,18.27274058039038,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,private_credit_growth_pct,19.387882492255148,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,private_credit_growth_pct,23.17129908827416,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,private_credit_growth_pct,18.01411321908361,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,private_credit_growth_pct,22.312883988330345,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,private_credit_growth_pct,19.13767043802971,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,private_credit_growth_pct,12.597295136434896,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,private_credit_growth_pct,26.325658755480834,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,private_credit_growth_pct,13.273008723634755,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,private_credit_growth_pct,4.571335264750347,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,private_credit_growth_pct,6.100849067073428,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,private_credit_growth_pct,8.115244107274425,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,private_credit_growth_pct,6.589984911462567,A25.1Monetary Indicators (A)
+1974/75,2031/32,final,deposits_growth_pct,24.474330238018982,A25.1Monetary Indicators (A)
+1975/76,2032/33,final,deposits_growth_pct,37.249185388441106,A25.1Monetary Indicators (A)
+1976/77,2033/34,final,deposits_growth_pct,33.25627889541423,A25.1Monetary Indicators (A)
+1977/78,2034/35,final,deposits_growth_pct,18.045853063903607,A25.1Monetary Indicators (A)
+1978/79,2035/36,final,deposits_growth_pct,15.267296846453238,A25.1Monetary Indicators (A)
+1979/80,2036/37,final,deposits_growth_pct,14.730204672317553,A25.1Monetary Indicators (A)
+1980/81,2037/38,final,deposits_growth_pct,24.4316304772202,A25.1Monetary Indicators (A)
+1981/82,2038/39,final,deposits_growth_pct,18.435026066808245,A25.1Monetary Indicators (A)
+1982/83,2039/40,final,deposits_growth_pct,28.11289993886285,A25.1Monetary Indicators (A)
+1983/84,2040/41,final,deposits_growth_pct,12.415493517855722,A25.1Monetary Indicators (A)
+1984/85,2041/42,final,deposits_growth_pct,20.788170369322206,A25.1Monetary Indicators (A)
+1985/86,2042/43,final,deposits_growth_pct,20.37933013905648,A25.1Monetary Indicators (A)
+1986/87,2043/44,final,deposits_growth_pct,14.95469894994987,A25.1Monetary Indicators (A)
+1987/88,2044/45,final,deposits_growth_pct,26.578002776743087,A25.1Monetary Indicators (A)
+1988/89,2045/46,final,deposits_growth_pct,26.77051077120633,A25.1Monetary Indicators (A)
+1989/90,2046/47,final,deposits_growth_pct,15.460099395397432,A25.1Monetary Indicators (A)
+1990/91,2047/48,final,deposits_growth_pct,21.94425405528901,A25.1Monetary Indicators (A)
+1991/92,2048/49,final,deposits_growth_pct,24.88430913348946,A25.1Monetary Indicators (A)
+1992/93,2049/50,final,deposits_growth_pct,30.64824399537935,A25.1Monetary Indicators (A)
+1993/94,2050/51,final,deposits_growth_pct,19.808879018719367,A25.1Monetary Indicators (A)
+1994/95,2051/52,final,deposits_growth_pct,17.01601541159894,A25.1Monetary Indicators (A)
+1995/96,2052/53,final,deposits_growth_pct,16.652988344759244,A25.1Monetary Indicators (A)
+1996/97,2053/54,final,deposits_growth_pct,14.510738449180897,A25.1Monetary Indicators (A)
+1997/98,2054/55,final,deposits_growth_pct,25.581674836010187,A25.1Monetary Indicators (A)
+1998/99,2055/56,final,deposits_growth_pct,23.909332729197356,A25.1Monetary Indicators (A)
+1999/00,2056/57,final,deposits_growth_pct,21.846313645878,A25.1Monetary Indicators (A)
+2000/01,2057/58,final,deposits_growth_pct,17.200083047507167,A25.1Monetary Indicators (A)
+2001/02,2058/59,final,deposits_growth_pct,1.3932961522796938,A25.1Monetary Indicators (A)
+2002/03,2059/60,final,deposits_growth_pct,10.344438330337082,A25.1Monetary Indicators (A)
+2003/04,2060/61,final,deposits_growth_pct,14.720060903527918,A25.1Monetary Indicators (A)
+2004/05,2061/62,final,deposits_growth_pct,7.6915134119229105,A25.1Monetary Indicators (A)
+2005/06,2062/63,final,deposits_growth_pct,15.775085535436586,A25.1Monetary Indicators (A)
+2006/07,2063/64,final,deposits_growth_pct,15.338287114133797,A25.1Monetary Indicators (A)
+2007/08,2064/65,final,deposits_growth_pct,26.033633161637503,A25.1Monetary Indicators (A)
+2008/09,2065/66,final,deposits_growth_pct,30.639640344283535,A25.1Monetary Indicators (A)
+2009/10,2066/67,final,deposits_growth_pct,12.699219635303354,A25.1Monetary Indicators (A)
+2010/11,2067/68,final,deposits_growth_pct,32.64953150920984,A25.1Monetary Indicators (A)
+2011/12,2068/69,final,deposits_growth_pct,22.90823206749572,A25.1Monetary Indicators (A)
+2012/13,2069/70,final,deposits_growth_pct,17.420765391815664,A25.1Monetary Indicators (A)
+2013/14,2070/71,final,deposits_growth_pct,18.40594684948929,A25.1Monetary Indicators (A)
+2014/15,2071/72,final,deposits_growth_pct,20.050218821272775,A25.1Monetary Indicators (A)
+2015/16,2072/73,final,deposits_growth_pct,19.420919980525785,A25.1Monetary Indicators (A)
+2016/17,2073/74,final,deposits_growth_pct,14.031593061702885,A25.1Monetary Indicators (A)
+2017/18,2074/75,final,deposits_growth_pct,19.23184070380665,A25.1Monetary Indicators (A)
+2018/19,2075/76,final,deposits_growth_pct,17.977582801361702,A25.1Monetary Indicators (A)
+2019/20,2076/77,final,deposits_growth_pct,18.690824581084563,A25.1Monetary Indicators (A)
+2020/21,2077/78,final,deposits_growth_pct,21.433862490169336,A25.1Monetary Indicators (A)
+2021/22,2078/79,final,deposits_growth_pct,9.008457758036604,A25.1Monetary Indicators (A)
+2022/23,2079/80,final,deposits_growth_pct,12.340647104847235,A25.1Monetary Indicators (A)
+2023/24,2080/81,final,deposits_growth_pct,13.001198593960037,A25.1Monetary Indicators (A)
+2024/25,2081/82,final,deposits_growth_pct,12.576563375385897,A25.1Monetary Indicators (A)
+2025/26,2082/83,final,deposits_growth_pct,13.946428437327668,A25.1Monetary Indicators (A)
